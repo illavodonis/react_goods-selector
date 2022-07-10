@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,MACE,SAAU,CACV,gBAAiB,CAClB,cAGC,6BAA8B,CAC9B,YAAa","file":"main.979b00c9.chunk.css","sourcesContent":[".card {\n  width: 50%;\n  margin: 10px auto;\n}\n\n.notification {\n  justify-content: space-between;\n  display: flex;\n}\n"]}
